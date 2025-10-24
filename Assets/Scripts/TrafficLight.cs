@@ -80,5 +80,6 @@ public class TraficLight : MonoBehaviour
         }
 
         activeCoroutine = null;
+        ActivateNextInQueue();
     }
 }

@@ -22825,9 +22825,9 @@ MonoBehaviour:
   - {fileID: 1840700915}
   lightsIndex: 000000000000000000000000010000000100000001000000020000000200000002000000
   activationDurations:
-  - 2
-  - 2
-  - 2
+  - 15
+  - 3
+  - 5
 --- !u!1001 &1663596027
 PrefabInstance:
   m_ObjectHideFlags: 0
